@@ -1,2 +1,2 @@
 # Linked-List-
-Types of linked list
+Types of linked list with implementation.
